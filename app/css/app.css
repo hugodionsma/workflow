@@ -3,3 +3,8 @@ body {
 
 h1 {
   color: white; }
+
+h1:hover {
+  -webkit-transition: color 23s ease;
+  -moz-transition: color 23s ease;
+  transition: color 23s ease; }

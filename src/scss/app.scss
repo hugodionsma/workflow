@@ -5,5 +5,9 @@ background-color: red;
 }
 
 h1{
-  color: white; 
+  color: white;
+}
+
+h1:hover{
+  transition: color 23s ease;
 }
