@@ -1,0 +1,22 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Description du workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugodionsma/workflow.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugodionsma/workflow/issues"
+  },
+  "homepage": "https://github.com/hugodionsma/workflow#readme"
+}
